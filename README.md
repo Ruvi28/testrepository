@@ -1,2 +1,2 @@
 # testrepository
-new to GitHub
+new to GitHub. want to learn
